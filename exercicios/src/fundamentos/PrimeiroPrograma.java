@@ -1,0 +1,21 @@
+package fundamentos;
+
+/**
+ * java doc
+ * @author Jefferson
+ * @since
+ */
+public class PrimeiroPrograma {
+
+	// Comentários de uma linha
+	public static void main(String[] args) {
+		/*
+		 * Comentario de multiplas linhas
+		 * Linha 1
+		 * Linha 2
+		 * Linha 3
+		 */
+		System.out.println("Primeiro Programa Parte #01!!");
+		System.out.println("Primeiro Programa Parte #02!!");
+	}
+}
